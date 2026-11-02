@@ -1,0 +1,6 @@
+# Оригиналы могут содержать конфиденциальные материалы.
+/raw/
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/

@@ -4,3 +4,4 @@ v8project.local.yaml
 /src/ConfigDumpInfo.xml
 .DS_Store
 /src/DumpFilesIndex.txt
+.local

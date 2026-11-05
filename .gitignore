@@ -4,12 +4,16 @@ v8project.local.yaml
 /src/ConfigDumpInfo.xml
 .DS_Store
 /src/DumpFilesIndex.txt
-.local
+.local/*
+!.local/inbox/
 
-# Local dashboard output contains embedded internal project documents.
+# Rebuildable dashboard assets; the standalone demo HTML is versioned.
 /sites/znr-overview/dist/
-/sites/znr-overview/dashboard.html
 # Account-specific Site identity and local publishing/runtime state.
 /sites/znr-overview/.openai/
 /sites/znr-overview/.sites-*/
 /sites/znr-overview/__pycache__/
+
+# Vendor configuration sources must never enter the GitHub demo export.
+/src/
+*.srt

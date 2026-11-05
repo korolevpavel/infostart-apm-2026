@@ -1,5 +1,4 @@
-# Оригиналы могут содержать конфиденциальные материалы.
-/raw/
+# Учебные оригиналы raw/ включены в демонстрационный комплект.
 .DS_Store
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json

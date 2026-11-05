@@ -5,3 +5,11 @@ v8project.local.yaml
 .DS_Store
 /src/DumpFilesIndex.txt
 .local
+
+# Local dashboard output contains embedded internal project documents.
+/sites/znr-overview/dist/
+/sites/znr-overview/dashboard.html
+# Account-specific Site identity and local publishing/runtime state.
+/sites/znr-overview/.openai/
+/sites/znr-overview/.sites-*/
+/sites/znr-overview/__pycache__/

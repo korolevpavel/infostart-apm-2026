@@ -1,0 +1,63 @@
+name: Publish ZNR dashboard
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - sites/znr-overview/dashboard.html
+      - .github/workflows/dashboard-pages.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dashboard-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    # Also applies to manual runs: private repositories must never publish.
+    if: ${{ github.event.repository.private == false && github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Prepare standalone dashboard
+        shell: bash
+        run: |
+          python3 - <<'PYTHON'
+          import os
+          from pathlib import Path
+          import shutil
+
+          source = Path('sites/znr-overview/dashboard.html')
+          assert source.is_file() and not source.is_symlink()
+          destination = Path(os.environ['RUNNER_TEMP']) / 'znr-pages'
+          destination.mkdir()
+          shutil.copyfile(source, destination / 'index.html')
+          assert sorted(p.name for p in destination.iterdir()) == ['index.html']
+          assert (destination / 'index.html').read_bytes() == source.read_bytes()
+          PYTHON
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard only
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/znr-pages
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

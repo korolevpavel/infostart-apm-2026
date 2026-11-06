@@ -32,3 +32,7 @@ node sites/znr-overview/verify.mjs
 ```
 
 После сборки включайте обновлённый `dashboard.html` в коммит. Каталог `dist/` пересоздаётся и не версионируется.
+
+## Сайт дашборда
+
+Подготовлен workflow GitHub Pages для адреса https://korolevpavel.github.io/infostart-apm-2026/. Пока репозиторий приватный, публикация пропускается. После открытия репозитория включите источник **GitHub Actions** в настройках Pages и вручную запустите **Publish ZNR dashboard**. Последующие изменения готового HTML в `main` публикуются автоматически. [Полная инструкция](sites/znr-overview/README.md#github-pages).

@@ -1,4 +1,4 @@
-name: Publish ZNR dashboard
+name: Publish dashboards
 
 on:
   workflow_dispatch:
@@ -6,6 +6,8 @@ on:
     branches: [main]
     paths:
       - sites/znr-overview/dashboard.html
+      - sites/openspec-experiments/dashboard.html
+      - sites/build_pages.py
       - .github/workflows/dashboard-pages.yml
 
 permissions:
@@ -33,27 +35,15 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Prepare standalone dashboard
+      - name: Prepare both dashboards
         shell: bash
         run: |
-          python3 - <<'PYTHON'
-          import os
-          from pathlib import Path
-          import shutil
-
-          source = Path('sites/znr-overview/dashboard.html')
-          assert source.is_file() and not source.is_symlink()
-          destination = Path(os.environ['RUNNER_TEMP']) / 'znr-pages'
-          destination.mkdir()
-          shutil.copyfile(source, destination / 'index.html')
-          assert sorted(p.name for p in destination.iterdir()) == ['index.html']
-          assert (destination / 'index.html').read_bytes() == source.read_bytes()
-          PYTHON
+          python3 sites/build_pages.py "$RUNNER_TEMP/znr-pages"
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload dashboard only
+      - name: Upload both dashboards only
         uses: actions/upload-pages-artifact@v4
         with:
           path: ${{ runner.temp }}/znr-pages

@@ -35,6 +35,10 @@ node sites/znr-overview/verify.mjs
 
 После сборки включайте обновлённый `dashboard.html` в коммит. Каталог `dist/` пересоздаётся и не версионируется.
 
-## Сайт дашборда
+## GitHub Pages: два дашборда
 
-Подготовлен workflow GitHub Pages для адреса https://korolevpavel.github.io/infostart-apm-2026/. Пока репозиторий приватный, публикация пропускается. После открытия репозитория включите источник **GitHub Actions** в настройках Pages и вручную запустите **Publish ZNR dashboard**. Последующие изменения готового HTML в `main` публикуются автоматически. [Полная инструкция](sites/znr-overview/README.md#github-pages).
+Сборка сохраняет [обзор ЗНР в корне сайта](https://korolevpavel.github.io/infostart-apm-2026/) и добавляет [эксперименты по пути `/experiments/`](https://korolevpavel.github.io/infostart-apm-2026/experiments/). Это подготовленные адреса; публикация ещё не включена.
+
+Workflow **Publish dashboards** собирает только два готовых HTML-файла через `sites/build_pages.py`. Изменение любого из них в `main` запускает публикацию при выполнении условий workflow. Прочие файлы репозитория не копируются в Pages.
+
+08.11.2026 GitHub отклонил включение Pages: текущий тариф не поддерживает эту возможность для приватного репозитория. Публикация из приватного проекта пока пропускается; видимость репозитория не изменена. По решению автора публикация отложена до открытия этого репозитория. После открытия нужно включить Pages с источником GitHub Actions и запустить workflow Publish dashboards. [Полная инструкция](sites/znr-overview/README.md#github-pages).

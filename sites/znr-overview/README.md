@@ -24,17 +24,17 @@ python3 sites/znr-overview/build_snapshot.py
 
 Планируемый адрес: https://korolevpavel.github.io/infostart-apm-2026/.
 
-Workflow `Publish ZNR dashboard` публикует готовый версионируемый `dashboard.html` как `index.html`. В публикуемом каталоге находится только этот файл; остальные файлы репозитория не отправляются в Pages. Встроенные в HTML тексты OpenSpec/wiki будут доступны посетителям сайта.
+Workflow `Publish dashboards` сохраняет этот обзор как корневой `index.html` и добавляет сравнение экспериментов как `experiments/index.html`. Скрипт `sites/build_pages.py` копирует только два готовых HTML-файла; остальные файлы репозитория не отправляются в Pages. Встроенные в HTML тексты OpenSpec/wiki будут доступны посетителям сайта.
 
 Пока репозиторий приватный, задание публикации пропускается, в том числе при ручном запуске. Настройки Pages сейчас не включаются. Видимость репозитория изменяет автор самостоятельно.
 
 Первый запуск после открытия репозитория:
 
 1. Откройте **Settings → Pages → Build and deployment → Source → GitHub Actions**.
-2. Перейдите в **Actions → Publish ZNR dashboard → Run workflow**, выберите ветку `main` и запустите workflow.
+2. Перейдите в **Actions → Publish dashboards → Run workflow**, выберите ветку `main` и запустите workflow.
 3. Дождитесь успешного задания `deploy` и откройте адрес из результата deployment.
 
-После этого изменения `sites/znr-overview/dashboard.html` в `main` публикуются автоматически. Изменения самого workflow также запускают публикацию. Ручной запуск разрешён только для `main` публичного репозитория.
+После этого изменения `sites/znr-overview/dashboard.html` и `sites/openspec-experiments/dashboard.html` в `main` публикуются автоматически. Изменения самого workflow также запускают публикацию. Ручной запуск разрешён только для `main` публичного репозитория.
 
 Workflow не пересобирает снимок: после изменения OpenSpec/wiki выполните сборку и проверку из этой инструкции, затем закоммитьте HTML. Новые коммиты передавайте на GitHub через отдельную фильтрованную копию без истории `src/`.
 

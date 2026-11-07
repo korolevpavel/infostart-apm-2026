@@ -1,0 +1,1272 @@
+{
+  "format": "openspec-experiments-publication-v1",
+  "date": "2026-11-08",
+  "description": "Original file hashes and published hashes. Original experiment directories were not modified.",
+  "files": [
+    {
+      "original": "01. opsx/AGENTS.md",
+      "published": "01-opsx/AGENTS.md",
+      "source_sha256": "710d003612b13d7964be7cfb72ee2b202f9f9b4266ded7e13c7909fe45e047f0",
+      "published_sha256": "710d003612b13d7964be7cfb72ee2b202f9f9b4266ded7e13c7909fe45e047f0",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/.gitignore",
+      "published": "01-opsx/.gitignore",
+      "source_sha256": "cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e",
+      "published_sha256": "cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/experiment-result.md",
+      "published": "01-opsx/experiment-result.md",
+      "source_sha256": "41b901bcb72bd78fea85f409f4c0165b9fcd984ca119baa1d942701360b0eedd",
+      "published_sha256": "41b901bcb72bd78fea85f409f4c0165b9fcd984ca119baa1d942701360b0eedd",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/ЗНР.docx",
+      "published": "01-opsx/ЗНР.docx",
+      "source_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "published_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/chat.md",
+      "published": "01-opsx/chat.md",
+      "source_sha256": "a5eadde80607f5166781372c8baa32032506d5cbd08b46a943ceaff70b70eb7d",
+      "published_sha256": "f2c79138c5f8f82c5ae2963b157231e7c7df72374bbaafb7c0b36138a60dd3e7",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "01. opsx/openspec/changes/control-minimum-sale-price/.openspec.yaml",
+      "published": "01-opsx/openspec/changes/control-minimum-sale-price/.openspec.yaml",
+      "source_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "published_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/openspec/changes/control-minimum-sale-price/design.md",
+      "published": "01-opsx/openspec/changes/control-minimum-sale-price/design.md",
+      "source_sha256": "44b37b78b2441161fae8067f6a67e6e9eca9a53f3d17ade25d58642be09a08dd",
+      "published_sha256": "44b37b78b2441161fae8067f6a67e6e9eca9a53f3d17ade25d58642be09a08dd",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/openspec/changes/control-minimum-sale-price/proposal.md",
+      "published": "01-opsx/openspec/changes/control-minimum-sale-price/proposal.md",
+      "source_sha256": "b0a43c792f3471c2d5b5770efd7022587980d12cd35ca84a518bf540c58cefba",
+      "published_sha256": "b0a43c792f3471c2d5b5770efd7022587980d12cd35ca84a518bf540c58cefba",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/openspec/changes/control-minimum-sale-price/specs/order-control-price/spec.md",
+      "published": "01-opsx/openspec/changes/control-minimum-sale-price/specs/order-control-price/spec.md",
+      "source_sha256": "66456d651874d452f24b4368ff792f051da4cc6b51e62546adfb068a3044fc10",
+      "published_sha256": "66456d651874d452f24b4368ff792f051da4cc6b51e62546adfb068a3044fc10",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/openspec/changes/control-minimum-sale-price/specs/order-minimum-price-enforcement/spec.md",
+      "published": "01-opsx/openspec/changes/control-minimum-sale-price/specs/order-minimum-price-enforcement/spec.md",
+      "source_sha256": "dca3f289bbc7db2a624fc5cb015de4c6ba3a0b9c5eac6764d0a2feb798c4612d",
+      "published_sha256": "dca3f289bbc7db2a624fc5cb015de4c6ba3a0b9c5eac6764d0a2feb798c4612d",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/openspec/changes/control-minimum-sale-price/tasks.md",
+      "published": "01-opsx/openspec/changes/control-minimum-sale-price/tasks.md",
+      "source_sha256": "53259197cda56892318c93768cc2341fe03f3bbded05ab6b566897eb3cd90521",
+      "published_sha256": "53259197cda56892318c93768cc2341fe03f3bbded05ab6b566897eb3cd90521",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/openspec/config.yaml",
+      "published": "01-opsx/openspec/config.yaml",
+      "source_sha256": "825f52f213a873fdb54e1f8b643fafb6843bb254682deb4f6ecd238c57cd5451",
+      "published_sha256": "825f52f213a873fdb54e1f8b643fafb6843bb254682deb4f6ecd238c57cd5451",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/.agents/skills/openspec-apply-change/SKILL.md",
+      "published": "01-opsx/.agents/skills/openspec-apply-change/SKILL.md",
+      "source_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "published_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/.agents/skills/openspec-archive-change/SKILL.md",
+      "published": "01-opsx/.agents/skills/openspec-archive-change/SKILL.md",
+      "source_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "published_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/.agents/skills/openspec-explore/SKILL.md",
+      "published": "01-opsx/.agents/skills/openspec-explore/SKILL.md",
+      "source_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "published_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/.agents/skills/openspec-propose/SKILL.md",
+      "published": "01-opsx/.agents/skills/openspec-propose/SKILL.md",
+      "source_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "published_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/.agents/skills/openspec-sync-specs/SKILL.md",
+      "published": "01-opsx/.agents/skills/openspec-sync-specs/SKILL.md",
+      "source_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "published_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "transformations": []
+    },
+    {
+      "original": "01. opsx/.agents/skills/openspec-verify-change/SKILL.md",
+      "published": "01-opsx/.agents/skills/openspec-verify-change/SKILL.md",
+      "source_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "published_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/AGENTS.md",
+      "published": "02-opsx-ut/AGENTS.md",
+      "source_sha256": "418f675c3726195669e40ce8fbec1ec4e8e317c828a594155d4598d00fae7e69",
+      "published_sha256": "418f675c3726195669e40ce8fbec1ec4e8e317c828a594155d4598d00fae7e69",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/.gitignore",
+      "published": "02-opsx-ut/.gitignore",
+      "source_sha256": "76d6897d9d31bc5fd8db2c3054165a1e3e5a71595ec3cf0cbb7e32b214dcc126",
+      "published_sha256": "76d6897d9d31bc5fd8db2c3054165a1e3e5a71595ec3cf0cbb7e32b214dcc126",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/experiment-result.md",
+      "published": "02-opsx-ut/experiment-result.md",
+      "source_sha256": "76884530c9c06a618ae4b68c4724127c095036e2e54763d5ce19c542aa872b8f",
+      "published_sha256": "76884530c9c06a618ae4b68c4724127c095036e2e54763d5ce19c542aa872b8f",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/ЗНР.docx",
+      "published": "02-opsx-ut/ЗНР.docx",
+      "source_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "published_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/chat.md",
+      "published": "02-opsx-ut/chat.md",
+      "source_sha256": "db50e640a670fc439d99ca04c5e14e854d5fc8ff953d9201ef1894b8769708c1",
+      "published_sha256": "f0d897161de15b34b74be8acc49e35293c197d83cecda10d04064a77db9629d6",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "02. opsx + ut/openspec/changes/control-customer-order-minimum-price/.openspec.yaml",
+      "published": "02-opsx-ut/openspec/changes/control-customer-order-minimum-price/.openspec.yaml",
+      "source_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "published_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/openspec/changes/control-customer-order-minimum-price/design.md",
+      "published": "02-opsx-ut/openspec/changes/control-customer-order-minimum-price/design.md",
+      "source_sha256": "599a5916465c4ebe4d6a259267be4741715d9cef9ccf1ede6179998cba2b33c7",
+      "published_sha256": "599a5916465c4ebe4d6a259267be4741715d9cef9ccf1ede6179998cba2b33c7",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/openspec/changes/control-customer-order-minimum-price/proposal.md",
+      "published": "02-opsx-ut/openspec/changes/control-customer-order-minimum-price/proposal.md",
+      "source_sha256": "afd16adccf291f44c4ab240bd7ac7160e9ef7b0bc0a6d03dd89ee8125569972a",
+      "published_sha256": "afd16adccf291f44c4ab240bd7ac7160e9ef7b0bc0a6d03dd89ee8125569972a",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/openspec/changes/control-customer-order-minimum-price/questions.md",
+      "published": "02-opsx-ut/openspec/changes/control-customer-order-minimum-price/questions.md",
+      "source_sha256": "2e8202992cbe097251ce5647ff31f93129147a01f22d43b8bac78955002d1dd5",
+      "published_sha256": "2e8202992cbe097251ce5647ff31f93129147a01f22d43b8bac78955002d1dd5",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/openspec/changes/control-customer-order-minimum-price/specs/customer-order-price-control/spec.md",
+      "published": "02-opsx-ut/openspec/changes/control-customer-order-minimum-price/specs/customer-order-price-control/spec.md",
+      "source_sha256": "27c9f92de585393a0712fbc4b5518837a63228c2b2df1226e38506b63b46e758",
+      "published_sha256": "27c9f92de585393a0712fbc4b5518837a63228c2b2df1226e38506b63b46e758",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/openspec/changes/control-customer-order-minimum-price/tasks.md",
+      "published": "02-opsx-ut/openspec/changes/control-customer-order-minimum-price/tasks.md",
+      "source_sha256": "a62468ac058fa04918541c29ebf762bcc8d760d1b015788035400f7a97ce42cb",
+      "published_sha256": "a62468ac058fa04918541c29ebf762bcc8d760d1b015788035400f7a97ce42cb",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/openspec/config.yaml",
+      "published": "02-opsx-ut/openspec/config.yaml",
+      "source_sha256": "4dd4f25afa9f79d778ba0501edf889a7c518392d29b6a5ee59b99813531d6c81",
+      "published_sha256": "4dd4f25afa9f79d778ba0501edf889a7c518392d29b6a5ee59b99813531d6c81",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/.agents/skills/openspec-apply-change/SKILL.md",
+      "published": "02-opsx-ut/.agents/skills/openspec-apply-change/SKILL.md",
+      "source_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "published_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/.agents/skills/openspec-archive-change/SKILL.md",
+      "published": "02-opsx-ut/.agents/skills/openspec-archive-change/SKILL.md",
+      "source_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "published_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/.agents/skills/openspec-explore/SKILL.md",
+      "published": "02-opsx-ut/.agents/skills/openspec-explore/SKILL.md",
+      "source_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "published_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/.agents/skills/openspec-propose/SKILL.md",
+      "published": "02-opsx-ut/.agents/skills/openspec-propose/SKILL.md",
+      "source_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "published_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/.agents/skills/openspec-sync-specs/SKILL.md",
+      "published": "02-opsx-ut/.agents/skills/openspec-sync-specs/SKILL.md",
+      "source_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "published_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "transformations": []
+    },
+    {
+      "original": "02. opsx + ut/.agents/skills/openspec-verify-change/SKILL.md",
+      "published": "02-opsx-ut/.agents/skills/openspec-verify-change/SKILL.md",
+      "source_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "published_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/AGENTS.md",
+      "published": "03-opsx-ut-explore/AGENTS.md",
+      "source_sha256": "10c93d4c652314555f32ac8519ff19ec802634dee1570ca4712e132e8e9b245e",
+      "published_sha256": "10c93d4c652314555f32ac8519ff19ec802634dee1570ca4712e132e8e9b245e",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/.gitignore",
+      "published": "03-opsx-ut-explore/.gitignore",
+      "source_sha256": "7ea1269e07825d957339e1ba78b13dc5d8ca53296ee0cb91e0f5ad59414a4c52",
+      "published_sha256": "7ea1269e07825d957339e1ba78b13dc5d8ca53296ee0cb91e0f5ad59414a4c52",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/experiment-result.md",
+      "published": "03-opsx-ut-explore/experiment-result.md",
+      "source_sha256": "dec5d97b2b42aa6ff67d6b4cab39137151234be21bdad70491b6fff7b1eac512",
+      "published_sha256": "dec5d97b2b42aa6ff67d6b4cab39137151234be21bdad70491b6fff7b1eac512",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/ЗНР.docx",
+      "published": "03-opsx-ut-explore/ЗНР.docx",
+      "source_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "published_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/chat.md",
+      "published": "03-opsx-ut-explore/chat.md",
+      "source_sha256": "099ab885d57c9f759be89863729f455178f4566d798ad87fde652d76f145b179",
+      "published_sha256": "4bfc4916fa1f0ef408773234c51cd056f295455a3c626e56357cbafc5aa3ddd7",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "03. opsx + ut + explore/openspec/changes/customer-order-control-price/.openspec.yaml",
+      "published": "03-opsx-ut-explore/openspec/changes/customer-order-control-price/.openspec.yaml",
+      "source_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "published_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/openspec/changes/customer-order-control-price/design.md",
+      "published": "03-opsx-ut-explore/openspec/changes/customer-order-control-price/design.md",
+      "source_sha256": "dffabbfafe26787404ce46f2f8e35c44f621f88aa9fb5f05e0aa50559ddaf584",
+      "published_sha256": "22e59582190301e370ba9b79939f5584d1275d4baa757ee34366f60a78659929",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "03. opsx + ut + explore/openspec/changes/customer-order-control-price/proposal.md",
+      "published": "03-opsx-ut-explore/openspec/changes/customer-order-control-price/proposal.md",
+      "source_sha256": "7898270244436d652a9dd88b0e9b4b9a03e8f101b12e5b44b8f8178dd2ab00df",
+      "published_sha256": "7525a8cb537a7d94d44f46051d8fb1fc9169eb6704f1e485bdc0d085a914e433",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "03. opsx + ut + explore/openspec/changes/customer-order-control-price/specs/customer-order-control-price/spec.md",
+      "published": "03-opsx-ut-explore/openspec/changes/customer-order-control-price/specs/customer-order-control-price/spec.md",
+      "source_sha256": "dce2b041d8da1e40fcdc283e483259cfce90f82d3f7417c68f515627692588b9",
+      "published_sha256": "dce2b041d8da1e40fcdc283e483259cfce90f82d3f7417c68f515627692588b9",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/openspec/changes/customer-order-control-price/tasks.md",
+      "published": "03-opsx-ut-explore/openspec/changes/customer-order-control-price/tasks.md",
+      "source_sha256": "7b30bece1cec74d376b5855d2798a03449a2cd4c43da7ca87b37e3d5ccfc3806",
+      "published_sha256": "7b30bece1cec74d376b5855d2798a03449a2cd4c43da7ca87b37e3d5ccfc3806",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/openspec/config.yaml",
+      "published": "03-opsx-ut-explore/openspec/config.yaml",
+      "source_sha256": "cc68f68c2132329dfc6eda88c25577c80822923f4b0c2f845ff051ccf2aac55c",
+      "published_sha256": "cc68f68c2132329dfc6eda88c25577c80822923f4b0c2f845ff051ccf2aac55c",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/.agents/skills/openspec-apply-change/SKILL.md",
+      "published": "03-opsx-ut-explore/.agents/skills/openspec-apply-change/SKILL.md",
+      "source_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "published_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/.agents/skills/openspec-archive-change/SKILL.md",
+      "published": "03-opsx-ut-explore/.agents/skills/openspec-archive-change/SKILL.md",
+      "source_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "published_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/.agents/skills/openspec-explore/SKILL.md",
+      "published": "03-opsx-ut-explore/.agents/skills/openspec-explore/SKILL.md",
+      "source_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "published_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/.agents/skills/openspec-propose/SKILL.md",
+      "published": "03-opsx-ut-explore/.agents/skills/openspec-propose/SKILL.md",
+      "source_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "published_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/.agents/skills/openspec-sync-specs/SKILL.md",
+      "published": "03-opsx-ut-explore/.agents/skills/openspec-sync-specs/SKILL.md",
+      "source_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "published_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "transformations": []
+    },
+    {
+      "original": "03. opsx + ut + explore/.agents/skills/openspec-verify-change/SKILL.md",
+      "published": "03-opsx-ut-explore/.agents/skills/openspec-verify-change/SKILL.md",
+      "source_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "published_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/AGENTS.md",
+      "published": "04-opsx-ut-unica/AGENTS.md",
+      "source_sha256": "efd7f0476307f9cb3ecf7c7bc67246636a318e3c0240c0c56f961f34350b58cd",
+      "published_sha256": "efd7f0476307f9cb3ecf7c7bc67246636a318e3c0240c0c56f961f34350b58cd",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/.gitignore",
+      "published": "04-opsx-ut-unica/.gitignore",
+      "source_sha256": "fc792e9fc9ea4bbbb32031ad750fd44bcd9a70183ba36a99981154e0e0c0bb63",
+      "published_sha256": "fc792e9fc9ea4bbbb32031ad750fd44bcd9a70183ba36a99981154e0e0c0bb63",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/experiment-result.md",
+      "published": "04-opsx-ut-unica/experiment-result.md",
+      "source_sha256": "da7c8437721b38500fc742716a58f15242e2fb9a0a81c11eb1172e615741ac22",
+      "published_sha256": "57e12a3fb32e63139a81683b34543cbadc2d968d2f6ef9292ff7bae07f5e6848",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "04. opsx + ut + unica/v8project.yaml",
+      "published": "04-opsx-ut-unica/v8project.yaml",
+      "source_sha256": "128acdc56eac7e44bc2f3f4a9e0d365756a95d6aee99ddc245fece8037210255",
+      "published_sha256": "128acdc56eac7e44bc2f3f4a9e0d365756a95d6aee99ddc245fece8037210255",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/ЗНР.docx",
+      "published": "04-opsx-ut-unica/ЗНР.docx",
+      "source_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "published_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/chat.md",
+      "published": "04-opsx-ut-unica/chat.md",
+      "source_sha256": "cf657570a7768f881822ec93b7c884a224e7ce703d16325cbd4ceaed261a8ab8",
+      "published_sha256": "dbc5d1a9da82208768209346e960ff08775e01dbdd8cba704974348de6ff5ab3",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "04. opsx + ut + unica/openspec/changes/control-customer-order-min-price/.openspec.yaml",
+      "published": "04-opsx-ut-unica/openspec/changes/control-customer-order-min-price/.openspec.yaml",
+      "source_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "published_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/openspec/changes/control-customer-order-min-price/design.md",
+      "published": "04-opsx-ut-unica/openspec/changes/control-customer-order-min-price/design.md",
+      "source_sha256": "3d404fcf2f05a4f8a71b3ac5f03293a384b4aab891b4c8ce60378a07f71f48e2",
+      "published_sha256": "3d404fcf2f05a4f8a71b3ac5f03293a384b4aab891b4c8ce60378a07f71f48e2",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/openspec/changes/control-customer-order-min-price/proposal.md",
+      "published": "04-opsx-ut-unica/openspec/changes/control-customer-order-min-price/proposal.md",
+      "source_sha256": "dd380c41f804527491b7b6a5b1a3864fb127fb30a1d00f11639f9fe6760948a3",
+      "published_sha256": "dd380c41f804527491b7b6a5b1a3864fb127fb30a1d00f11639f9fe6760948a3",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/openspec/changes/control-customer-order-min-price/questions.md",
+      "published": "04-opsx-ut-unica/openspec/changes/control-customer-order-min-price/questions.md",
+      "source_sha256": "dc262f1c4e29929d76ed593da5c2fd7b4f7089fbb1b9cb6a4b599b7b45e1d785",
+      "published_sha256": "dc262f1c4e29929d76ed593da5c2fd7b4f7089fbb1b9cb6a4b599b7b45e1d785",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/openspec/changes/control-customer-order-min-price/research.md",
+      "published": "04-opsx-ut-unica/openspec/changes/control-customer-order-min-price/research.md",
+      "source_sha256": "0e2cf0a10fbfa8c25bf31a0af6f81a206e04eddd55ee816dfaebc6fd175408fa",
+      "published_sha256": "72fff1c3d236ae19dd65ce0cf768a0a97f207efb141bdf9f136a7461b2f3b4e7",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "04. opsx + ut + unica/openspec/changes/control-customer-order-min-price/specs/customer-order-price-control/spec.md",
+      "published": "04-opsx-ut-unica/openspec/changes/control-customer-order-min-price/specs/customer-order-price-control/spec.md",
+      "source_sha256": "fc035d28cfbe15cabac9eba9049a92ea7d37513b632529df76f96b1146abb207",
+      "published_sha256": "fc035d28cfbe15cabac9eba9049a92ea7d37513b632529df76f96b1146abb207",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/openspec/changes/control-customer-order-min-price/tasks.md",
+      "published": "04-opsx-ut-unica/openspec/changes/control-customer-order-min-price/tasks.md",
+      "source_sha256": "7a125496e1c986fc1fcbaa7b7c92416dd307a5cf1eec37c0c68c317ec40d57a0",
+      "published_sha256": "7a125496e1c986fc1fcbaa7b7c92416dd307a5cf1eec37c0c68c317ec40d57a0",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/openspec/config.yaml",
+      "published": "04-opsx-ut-unica/openspec/config.yaml",
+      "source_sha256": "065e513b167a742d0acb7be27a62229f005282d15c5e14e1eabc4d92f7d44597",
+      "published_sha256": "065e513b167a742d0acb7be27a62229f005282d15c5e14e1eabc4d92f7d44597",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/.agents/skills/openspec-apply-change/SKILL.md",
+      "published": "04-opsx-ut-unica/.agents/skills/openspec-apply-change/SKILL.md",
+      "source_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "published_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/.agents/skills/openspec-archive-change/SKILL.md",
+      "published": "04-opsx-ut-unica/.agents/skills/openspec-archive-change/SKILL.md",
+      "source_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "published_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/.agents/skills/openspec-explore/SKILL.md",
+      "published": "04-opsx-ut-unica/.agents/skills/openspec-explore/SKILL.md",
+      "source_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "published_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/.agents/skills/openspec-propose/SKILL.md",
+      "published": "04-opsx-ut-unica/.agents/skills/openspec-propose/SKILL.md",
+      "source_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "published_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/.agents/skills/openspec-sync-specs/SKILL.md",
+      "published": "04-opsx-ut-unica/.agents/skills/openspec-sync-specs/SKILL.md",
+      "source_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "published_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "transformations": []
+    },
+    {
+      "original": "04. opsx + ut + unica/.agents/skills/openspec-update-change/SKILL.md",
+      "published": "04-opsx-ut-unica/.agents/skills/openspec-update-change/SKILL.md",
+      "source_sha256": "470ead89c835288c28f8cb45ee5350168d47187e4ef328c571eefc16bf6b618f",
+      "published_sha256": "470ead89c835288c28f8cb45ee5350168d47187e4ef328c571eefc16bf6b618f",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/AGENTS.md",
+      "published": "05-opsx-ut-unica-explore/AGENTS.md",
+      "source_sha256": "43e2f7e181f3ca569a5ac8bca05ed2db4d924f39dfbcd8766b3c7fb28b7c0431",
+      "published_sha256": "43e2f7e181f3ca569a5ac8bca05ed2db4d924f39dfbcd8766b3c7fb28b7c0431",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/.gitignore",
+      "published": "05-opsx-ut-unica-explore/.gitignore",
+      "source_sha256": "e1240887233e5994bc484bb7f4548222505e41189f9e6d9c81aa3d6fbe3b38b8",
+      "published_sha256": "e1240887233e5994bc484bb7f4548222505e41189f9e6d9c81aa3d6fbe3b38b8",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/experiment-result.md",
+      "published": "05-opsx-ut-unica-explore/experiment-result.md",
+      "source_sha256": "743afb3c0e1f3c9224cdd0cc445d6c71a41af6ab555eab166d1422e50d33e18b",
+      "published_sha256": "743afb3c0e1f3c9224cdd0cc445d6c71a41af6ab555eab166d1422e50d33e18b",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/v8project.yaml",
+      "published": "05-opsx-ut-unica-explore/v8project.yaml",
+      "source_sha256": "128acdc56eac7e44bc2f3f4a9e0d365756a95d6aee99ddc245fece8037210255",
+      "published_sha256": "128acdc56eac7e44bc2f3f4a9e0d365756a95d6aee99ddc245fece8037210255",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/ЗНР.docx",
+      "published": "05-opsx-ut-unica-explore/ЗНР.docx",
+      "source_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "published_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/chat.md",
+      "published": "05-opsx-ut-unica-explore/chat.md",
+      "source_sha256": "f3cb666cd4b4598003e5c8311a43693b9e17600f29d0900978f2993bfe45eb81",
+      "published_sha256": "b43170f847724f4e5178c6b54c5aa8852a7b2899527760a59443727015157ec8",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/openspec/changes/control-client-order-minimum-price/.openspec.yaml",
+      "published": "05-opsx-ut-unica-explore/openspec/changes/control-client-order-minimum-price/.openspec.yaml",
+      "source_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "published_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/openspec/changes/control-client-order-minimum-price/design.md",
+      "published": "05-opsx-ut-unica-explore/openspec/changes/control-client-order-minimum-price/design.md",
+      "source_sha256": "8e14dea171b1dfe602af3feb0076fd97c8b1fb1554e1ca37ac75a578d1130cb7",
+      "published_sha256": "8e14dea171b1dfe602af3feb0076fd97c8b1fb1554e1ca37ac75a578d1130cb7",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/openspec/changes/control-client-order-minimum-price/proposal.md",
+      "published": "05-opsx-ut-unica-explore/openspec/changes/control-client-order-minimum-price/proposal.md",
+      "source_sha256": "9084a59e7006782acdf82393c0efcf13105a5584bd4ab63a54b128f2228fe216",
+      "published_sha256": "9084a59e7006782acdf82393c0efcf13105a5584bd4ab63a54b128f2228fe216",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/openspec/changes/control-client-order-minimum-price/specs/client-order-price-control/spec.md",
+      "published": "05-opsx-ut-unica-explore/openspec/changes/control-client-order-minimum-price/specs/client-order-price-control/spec.md",
+      "source_sha256": "d9b2826cfc7059fc96e1372b76b9851cea14fd7ebeed4d9880e56eacbd04b848",
+      "published_sha256": "d9b2826cfc7059fc96e1372b76b9851cea14fd7ebeed4d9880e56eacbd04b848",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/openspec/changes/control-client-order-minimum-price/tasks.md",
+      "published": "05-opsx-ut-unica-explore/openspec/changes/control-client-order-minimum-price/tasks.md",
+      "source_sha256": "e00bf6d7d1599051e7a53a4a50bc052a59f4315a6ca679c09bad9cf15dc9f5b9",
+      "published_sha256": "e00bf6d7d1599051e7a53a4a50bc052a59f4315a6ca679c09bad9cf15dc9f5b9",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/openspec/config.yaml",
+      "published": "05-opsx-ut-unica-explore/openspec/config.yaml",
+      "source_sha256": "cc68f68c2132329dfc6eda88c25577c80822923f4b0c2f845ff051ccf2aac55c",
+      "published_sha256": "cc68f68c2132329dfc6eda88c25577c80822923f4b0c2f845ff051ccf2aac55c",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/.agents/skills/openspec-apply-change/SKILL.md",
+      "published": "05-opsx-ut-unica-explore/.agents/skills/openspec-apply-change/SKILL.md",
+      "source_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "published_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/.agents/skills/openspec-archive-change/SKILL.md",
+      "published": "05-opsx-ut-unica-explore/.agents/skills/openspec-archive-change/SKILL.md",
+      "source_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "published_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/.agents/skills/openspec-explore/SKILL.md",
+      "published": "05-opsx-ut-unica-explore/.agents/skills/openspec-explore/SKILL.md",
+      "source_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "published_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/.agents/skills/openspec-propose/SKILL.md",
+      "published": "05-opsx-ut-unica-explore/.agents/skills/openspec-propose/SKILL.md",
+      "source_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "published_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/.agents/skills/openspec-sync-specs/SKILL.md",
+      "published": "05-opsx-ut-unica-explore/.agents/skills/openspec-sync-specs/SKILL.md",
+      "source_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "published_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "transformations": []
+    },
+    {
+      "original": "05. opsx + ut + unica + explore/.agents/skills/openspec-verify-change/SKILL.md",
+      "published": "05-opsx-ut-unica-explore/.agents/skills/openspec-verify-change/SKILL.md",
+      "source_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "published_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/AGENTS.md",
+      "published": "06-opsx-ut-unica-explore-agents/AGENTS.md",
+      "source_sha256": "c7419b3e2f9cbda8aa45f6e3fb60aab4df24eae7edfc504129e2d90b8041606f",
+      "published_sha256": "c7419b3e2f9cbda8aa45f6e3fb60aab4df24eae7edfc504129e2d90b8041606f",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/.gitignore",
+      "published": "06-opsx-ut-unica-explore-agents/.gitignore",
+      "source_sha256": "e1240887233e5994bc484bb7f4548222505e41189f9e6d9c81aa3d6fbe3b38b8",
+      "published_sha256": "e1240887233e5994bc484bb7f4548222505e41189f9e6d9c81aa3d6fbe3b38b8",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/experiment-result.md",
+      "published": "06-opsx-ut-unica-explore-agents/experiment-result.md",
+      "source_sha256": "759cc847d3948a227af5818d6d4d1e8d1e05bd974ab77d7ef4bb20638922d958",
+      "published_sha256": "759cc847d3948a227af5818d6d4d1e8d1e05bd974ab77d7ef4bb20638922d958",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/v8project.yaml",
+      "published": "06-opsx-ut-unica-explore-agents/v8project.yaml",
+      "source_sha256": "128acdc56eac7e44bc2f3f4a9e0d365756a95d6aee99ddc245fece8037210255",
+      "published_sha256": "128acdc56eac7e44bc2f3f4a9e0d365756a95d6aee99ddc245fece8037210255",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/ЗНР.docx",
+      "published": "06-opsx-ut-unica-explore-agents/ЗНР.docx",
+      "source_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "published_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/chat.md",
+      "published": "06-opsx-ut-unica-explore-agents/chat.md",
+      "source_sha256": "8299a0c823f2f014638efb5409eed3279ee8d57f2a749dc57f950bddadb15a83",
+      "published_sha256": "76fb51fade30dc3a7037643dc9bee678417f32d5f9eb66bc7d592e68ae6939cf",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/openspec/changes/control-customer-order-minimum-price/.openspec.yaml",
+      "published": "06-opsx-ut-unica-explore-agents/openspec/changes/control-customer-order-minimum-price/.openspec.yaml",
+      "source_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "published_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/openspec/changes/control-customer-order-minimum-price/design.md",
+      "published": "06-opsx-ut-unica-explore-agents/openspec/changes/control-customer-order-minimum-price/design.md",
+      "source_sha256": "41a5641861d08bd2fd21b4bd2ed6957608d29783544dff4fe5fa7300f54a6d11",
+      "published_sha256": "41a5641861d08bd2fd21b4bd2ed6957608d29783544dff4fe5fa7300f54a6d11",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/openspec/changes/control-customer-order-minimum-price/proposal.md",
+      "published": "06-opsx-ut-unica-explore-agents/openspec/changes/control-customer-order-minimum-price/proposal.md",
+      "source_sha256": "333b929689d05691be85c97e650a4048aecf2a9146912f9ee85b25b1f67c92ff",
+      "published_sha256": "333b929689d05691be85c97e650a4048aecf2a9146912f9ee85b25b1f67c92ff",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/openspec/changes/control-customer-order-minimum-price/specs/customer-order-price-control/spec.md",
+      "published": "06-opsx-ut-unica-explore-agents/openspec/changes/control-customer-order-minimum-price/specs/customer-order-price-control/spec.md",
+      "source_sha256": "74c40acdd2e197fc7cd40b4600ff4c0c2f988d2621f20ee11ca72af7422f99a3",
+      "published_sha256": "74c40acdd2e197fc7cd40b4600ff4c0c2f988d2621f20ee11ca72af7422f99a3",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/openspec/changes/control-customer-order-minimum-price/tasks.md",
+      "published": "06-opsx-ut-unica-explore-agents/openspec/changes/control-customer-order-minimum-price/tasks.md",
+      "source_sha256": "039daab265a48a05e15ec34bd21e8ead947376b1dc1621db3f4930850a32dc6a",
+      "published_sha256": "039daab265a48a05e15ec34bd21e8ead947376b1dc1621db3f4930850a32dc6a",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/openspec/config.yaml",
+      "published": "06-opsx-ut-unica-explore-agents/openspec/config.yaml",
+      "source_sha256": "2dc0b9247a85b2dcdd5d83cb8a35a0088fd3edc6c20d3148523a2d1e36e69e49",
+      "published_sha256": "2dc0b9247a85b2dcdd5d83cb8a35a0088fd3edc6c20d3148523a2d1e36e69e49",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/.agents/skills/openspec-apply-change/SKILL.md",
+      "published": "06-opsx-ut-unica-explore-agents/.agents/skills/openspec-apply-change/SKILL.md",
+      "source_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "published_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/.agents/skills/openspec-archive-change/SKILL.md",
+      "published": "06-opsx-ut-unica-explore-agents/.agents/skills/openspec-archive-change/SKILL.md",
+      "source_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "published_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/.agents/skills/openspec-explore/SKILL.md",
+      "published": "06-opsx-ut-unica-explore-agents/.agents/skills/openspec-explore/SKILL.md",
+      "source_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "published_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/.agents/skills/openspec-propose/SKILL.md",
+      "published": "06-opsx-ut-unica-explore-agents/.agents/skills/openspec-propose/SKILL.md",
+      "source_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "published_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/.agents/skills/openspec-sync-specs/SKILL.md",
+      "published": "06-opsx-ut-unica-explore-agents/.agents/skills/openspec-sync-specs/SKILL.md",
+      "source_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "published_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "transformations": []
+    },
+    {
+      "original": "06. opsx + ut + unica + explore + agents/.agents/skills/openspec-update-change/SKILL.md",
+      "published": "06-opsx-ut-unica-explore-agents/.agents/skills/openspec-update-change/SKILL.md",
+      "source_sha256": "470ead89c835288c28f8cb45ee5350168d47187e4ef328c571eefc16bf6b618f",
+      "published_sha256": "470ead89c835288c28f8cb45ee5350168d47187e4ef328c571eefc16bf6b618f",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/AGENTS.md",
+      "published": "07-opsx-ut-unica-chats/AGENTS.md",
+      "source_sha256": "80120593ba97f609004641c2a3da478e04519ede4289f3f856a3d4bf016af5ac",
+      "published_sha256": "80120593ba97f609004641c2a3da478e04519ede4289f3f856a3d4bf016af5ac",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/.gitignore",
+      "published": "07-opsx-ut-unica-chats/.gitignore",
+      "source_sha256": "e1240887233e5994bc484bb7f4548222505e41189f9e6d9c81aa3d6fbe3b38b8",
+      "published_sha256": "e1240887233e5994bc484bb7f4548222505e41189f9e6d9c81aa3d6fbe3b38b8",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/experiment-result.md",
+      "published": "07-opsx-ut-unica-chats/experiment-result.md",
+      "source_sha256": "43d683c885aeb00c45ae0f96698619f31453a915ef00d96870338b24779d222f",
+      "published_sha256": "6afe06952be83c16771f3fa203e812c6317b321dc9485c707458fe7e1547a8d1",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/coordination-log.md",
+      "published": "07-opsx-ut-unica-chats/coordination-log.md",
+      "source_sha256": "779c6eac7b7d3110dd0b5ef1394f014a6404c3017b75d61bc921150bebfb1e40",
+      "published_sha256": "3adcda576878929a45fa0115f1403b063f8b9e63be7140eacd244f719c1b7487",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/v8project.yaml",
+      "published": "07-opsx-ut-unica-chats/v8project.yaml",
+      "source_sha256": "128acdc56eac7e44bc2f3f4a9e0d365756a95d6aee99ddc245fece8037210255",
+      "published_sha256": "128acdc56eac7e44bc2f3f4a9e0d365756a95d6aee99ddc245fece8037210255",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/ЗНР.docx",
+      "published": "07-opsx-ut-unica-chats/ЗНР.docx",
+      "source_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "published_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/chat-analyst.md",
+      "published": "07-opsx-ut-unica-chats/chat-analyst.md",
+      "source_sha256": "b56810b82d3009910cdb6bb9f58479a4ef79e9842627a60b3204eae046151b03",
+      "published_sha256": "d57e26e001348eb421b1e79633783b5b360f6f876c4beb9b038c4a5d3f14b081",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/chat-critic.md",
+      "published": "07-opsx-ut-unica-chats/chat-critic.md",
+      "source_sha256": "20969a195355584e3b44397c7a6ae2caf98d26d43c506dd07bb70e2630ca4d9e",
+      "published_sha256": "2d2429c8191541859066ba4175337f82a59e7656532f356218a847618281c3cd",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/chat-researcher.md",
+      "published": "07-opsx-ut-unica-chats/chat-researcher.md",
+      "source_sha256": "7fe731290decc664f74524bdd59eebe119239d108a6127b7f91d7a42f39de840",
+      "published_sha256": "76ca3aeaf20b8601d21a8d186a2510e1fb049f85356bcbaf783201cc996e41c9",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/chat.md",
+      "published": "07-opsx-ut-unica-chats/chat.md",
+      "source_sha256": "9e0327d1c2941879590231b9b0702b930bf7f3d38927986a15db89fcc8b74339",
+      "published_sha256": "0393cc38261541558e15a500185ca5aac151fe5ab95faf78d726d4146bfc1480",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/openspec/changes/control-customer-order-min-price/.openspec.yaml",
+      "published": "07-opsx-ut-unica-chats/openspec/changes/control-customer-order-min-price/.openspec.yaml",
+      "source_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "published_sha256": "cb72bd9217510d5461ddb5384ca197195a83da2d8dfbd237178f7ed662291c68",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/openspec/changes/control-customer-order-min-price/design.md",
+      "published": "07-opsx-ut-unica-chats/openspec/changes/control-customer-order-min-price/design.md",
+      "source_sha256": "f1df8d9cab09757b1ead18e8382864669d9bae8eef1cc99303a86d4cd2f767d9",
+      "published_sha256": "f1df8d9cab09757b1ead18e8382864669d9bae8eef1cc99303a86d4cd2f767d9",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/openspec/changes/control-customer-order-min-price/proposal.md",
+      "published": "07-opsx-ut-unica-chats/openspec/changes/control-customer-order-min-price/proposal.md",
+      "source_sha256": "36736ff9dfde0438fa1488763a4759c979f4a12b1576907c2da8f9705572f0c7",
+      "published_sha256": "36736ff9dfde0438fa1488763a4759c979f4a12b1576907c2da8f9705572f0c7",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/openspec/changes/control-customer-order-min-price/specs/customer-order-min-price/spec.md",
+      "published": "07-opsx-ut-unica-chats/openspec/changes/control-customer-order-min-price/specs/customer-order-min-price/spec.md",
+      "source_sha256": "3344c8f8ad65ab579fb4bc0809879c0d0916257d064c31a1a26ba212128b6781",
+      "published_sha256": "3344c8f8ad65ab579fb4bc0809879c0d0916257d064c31a1a26ba212128b6781",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/openspec/changes/control-customer-order-min-price/tasks.md",
+      "published": "07-opsx-ut-unica-chats/openspec/changes/control-customer-order-min-price/tasks.md",
+      "source_sha256": "672544d08f092adb9f35edab3d5d29e31138f9b0e43d9722dc292bc835e92108",
+      "published_sha256": "672544d08f092adb9f35edab3d5d29e31138f9b0e43d9722dc292bc835e92108",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/openspec/config.yaml",
+      "published": "07-opsx-ut-unica-chats/openspec/config.yaml",
+      "source_sha256": "cc68f68c2132329dfc6eda88c25577c80822923f4b0c2f845ff051ccf2aac55c",
+      "published_sha256": "cc68f68c2132329dfc6eda88c25577c80822923f4b0c2f845ff051ccf2aac55c",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/.agents/skills/openspec-apply-change/SKILL.md",
+      "published": "07-opsx-ut-unica-chats/.agents/skills/openspec-apply-change/SKILL.md",
+      "source_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "published_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/.agents/skills/openspec-archive-change/SKILL.md",
+      "published": "07-opsx-ut-unica-chats/.agents/skills/openspec-archive-change/SKILL.md",
+      "source_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "published_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/.agents/skills/openspec-explore/SKILL.md",
+      "published": "07-opsx-ut-unica-chats/.agents/skills/openspec-explore/SKILL.md",
+      "source_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "published_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/.agents/skills/openspec-propose/SKILL.md",
+      "published": "07-opsx-ut-unica-chats/.agents/skills/openspec-propose/SKILL.md",
+      "source_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "published_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/.agents/skills/openspec-sync-specs/SKILL.md",
+      "published": "07-opsx-ut-unica-chats/.agents/skills/openspec-sync-specs/SKILL.md",
+      "source_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "published_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "transformations": []
+    },
+    {
+      "original": "07. opsx + ut + unica + chats/.agents/skills/openspec-verify-change/SKILL.md",
+      "published": "07-opsx-ut-unica-chats/.agents/skills/openspec-verify-change/SKILL.md",
+      "source_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "published_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/AGENTS.md",
+      "published": "08-opsx-ut-explore-agents/AGENTS.md",
+      "source_sha256": "c09da62a9b6e3ca2f64a159c3073c475d56de7f16e2ef0d6c0f8fe0bc9a23c9e",
+      "published_sha256": "c09da62a9b6e3ca2f64a159c3073c475d56de7f16e2ef0d6c0f8fe0bc9a23c9e",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/.gitignore",
+      "published": "08-opsx-ut-explore-agents/.gitignore",
+      "source_sha256": "7ea1269e07825d957339e1ba78b13dc5d8ca53296ee0cb91e0f5ad59414a4c52",
+      "published_sha256": "7ea1269e07825d957339e1ba78b13dc5d8ca53296ee0cb91e0f5ad59414a4c52",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/experiment-result.md",
+      "published": "08-opsx-ut-explore-agents/experiment-result.md",
+      "source_sha256": "dd0a34ef20c90ea916ec9cb02e90a9139763ea810274fc77cce2f5243663fad0",
+      "published_sha256": "dd0a34ef20c90ea916ec9cb02e90a9139763ea810274fc77cce2f5243663fad0",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/ЗНР.docx",
+      "published": "08-opsx-ut-explore-agents/ЗНР.docx",
+      "source_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "published_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/chat.md",
+      "published": "08-opsx-ut-explore-agents/chat.md",
+      "source_sha256": "89835e56af76bab976144029af69b50c4aead7962b37a0c07b421d0ca935aaed",
+      "published_sha256": "2a1a469b8b96979aaa4423456083793067dcfe3d0535bd6ecd9190de69489586",
+      "transformations": [
+        "omitted attached environment/skill appendix",
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/openspec/changes/add-order-control-price/.openspec.yaml",
+      "published": "08-opsx-ut-explore-agents/openspec/changes/add-order-control-price/.openspec.yaml",
+      "source_sha256": "5fd2cc7d290b25cf909218418df74e542dd2eb03ebf67a63a38a9bee04d94037",
+      "published_sha256": "5fd2cc7d290b25cf909218418df74e542dd2eb03ebf67a63a38a9bee04d94037",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/openspec/changes/add-order-control-price/design.md",
+      "published": "08-opsx-ut-explore-agents/openspec/changes/add-order-control-price/design.md",
+      "source_sha256": "7119e55682db99a769a6e2bf7db0b9cbbfab4ec5113413466ae3e64e264ede61",
+      "published_sha256": "7119e55682db99a769a6e2bf7db0b9cbbfab4ec5113413466ae3e64e264ede61",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/openspec/changes/add-order-control-price/proposal.md",
+      "published": "08-opsx-ut-explore-agents/openspec/changes/add-order-control-price/proposal.md",
+      "source_sha256": "94b7ec1f04452ee8d22887d06a288b3b2088b08718deaab974c26b70f9e3e41e",
+      "published_sha256": "94b7ec1f04452ee8d22887d06a288b3b2088b08718deaab974c26b70f9e3e41e",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/openspec/changes/add-order-control-price/specs/order-control-price/spec.md",
+      "published": "08-opsx-ut-explore-agents/openspec/changes/add-order-control-price/specs/order-control-price/spec.md",
+      "source_sha256": "04d5558bce12d4069b326406de97b95550f123b715987c84bf61928f923b9ec0",
+      "published_sha256": "04d5558bce12d4069b326406de97b95550f123b715987c84bf61928f923b9ec0",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/openspec/changes/add-order-control-price/tasks.md",
+      "published": "08-opsx-ut-explore-agents/openspec/changes/add-order-control-price/tasks.md",
+      "source_sha256": "9bdad1797273fed6bb5b168ce6cf11f4fdec93d18c0c12d97db01c520f2a90ab",
+      "published_sha256": "9bdad1797273fed6bb5b168ce6cf11f4fdec93d18c0c12d97db01c520f2a90ab",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/openspec/config.yaml",
+      "published": "08-opsx-ut-explore-agents/openspec/config.yaml",
+      "source_sha256": "2dc0b9247a85b2dcdd5d83cb8a35a0088fd3edc6c20d3148523a2d1e36e69e49",
+      "published_sha256": "2dc0b9247a85b2dcdd5d83cb8a35a0088fd3edc6c20d3148523a2d1e36e69e49",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/.agents/skills/openspec-apply-change/SKILL.md",
+      "published": "08-opsx-ut-explore-agents/.agents/skills/openspec-apply-change/SKILL.md",
+      "source_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "published_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/.agents/skills/openspec-archive-change/SKILL.md",
+      "published": "08-opsx-ut-explore-agents/.agents/skills/openspec-archive-change/SKILL.md",
+      "source_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "published_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/.agents/skills/openspec-explore/SKILL.md",
+      "published": "08-opsx-ut-explore-agents/.agents/skills/openspec-explore/SKILL.md",
+      "source_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "published_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/.agents/skills/openspec-propose/SKILL.md",
+      "published": "08-opsx-ut-explore-agents/.agents/skills/openspec-propose/SKILL.md",
+      "source_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "published_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/.agents/skills/openspec-sync-specs/SKILL.md",
+      "published": "08-opsx-ut-explore-agents/.agents/skills/openspec-sync-specs/SKILL.md",
+      "source_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "published_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "transformations": []
+    },
+    {
+      "original": "08. opsx + ut + explore + agents/.agents/skills/openspec-verify-change/SKILL.md",
+      "published": "08-opsx-ut-explore-agents/.agents/skills/openspec-verify-change/SKILL.md",
+      "source_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "published_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/AGENTS.md",
+      "published": "09-opsx-ut-explore-chats/AGENTS.md",
+      "source_sha256": "d53b3cdbf0bae24363d19c263c7f0dc8e7c10dba56772aa51b0538ae9b27e93b",
+      "published_sha256": "d53b3cdbf0bae24363d19c263c7f0dc8e7c10dba56772aa51b0538ae9b27e93b",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/.gitignore",
+      "published": "09-opsx-ut-explore-chats/.gitignore",
+      "source_sha256": "7ea1269e07825d957339e1ba78b13dc5d8ca53296ee0cb91e0f5ad59414a4c52",
+      "published_sha256": "7ea1269e07825d957339e1ba78b13dc5d8ca53296ee0cb91e0f5ad59414a4c52",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/experiment-result.md",
+      "published": "09-opsx-ut-explore-chats/experiment-result.md",
+      "source_sha256": "86b2d7bea72b4f3645f39d75c52c2449af1ce946f0c9ad77fa29b271e91077f3",
+      "published_sha256": "6cffb1d6ee33b2603cd027a6bb95711599013262ba74eb9fc4a301283936f13f",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/coordination-log.md",
+      "published": "09-opsx-ut-explore-chats/coordination-log.md",
+      "source_sha256": "57ade77859b15761554ae636edeb72c99bf45f23ddd52290a7b23a2f688bfcfe",
+      "published_sha256": "e75604632ce52dc2a1fa7baa068b7bbbde06375c1099ee746c44c3b9ae59bcc4",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/ЗНР.docx",
+      "published": "09-opsx-ut-explore-chats/ЗНР.docx",
+      "source_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "published_sha256": "d4523904947b52bf50f048edf9bc2753712ebe46af6fe80be7e4802b36c900dc",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/chat-analyst.md",
+      "published": "09-opsx-ut-explore-chats/chat-analyst.md",
+      "source_sha256": "5d89188e08536571c020be84167c2a717bea9f46cf8a84528875d8acfb4a8a25",
+      "published_sha256": "297f44d67ce56d028f8440bd8efa9531ab708ba629dcb1cc4d5f7d7df7daff0c",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/chat-critic.md",
+      "published": "09-opsx-ut-explore-chats/chat-critic.md",
+      "source_sha256": "abd109a935def5c44140e6a2d131bdc4d163dfa3678c26524a9ba7bf0ceb572c",
+      "published_sha256": "892b03b18eb12677ddbc0bd28e68b426c5b82ded72703e8b3b1e9bce73922351",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/chat-researcher.md",
+      "published": "09-opsx-ut-explore-chats/chat-researcher.md",
+      "source_sha256": "fe455a9bef5cd0e65813a6ed9bd81639716294acaf2e43ba7ce079dbcad11b74",
+      "published_sha256": "5d7dc2701e04745db73c6b28b5c836d4389f812f5717dd6e761a218f0bba2bad",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/chat.md",
+      "published": "09-opsx-ut-explore-chats/chat.md",
+      "source_sha256": "f26614c8215aee429fc94bebfee341e3982a42da40b801691de25e811ddedf6b",
+      "published_sha256": "d37fe1db7e0a3dbf439df343ecd6506d2f040a39f0e6f376feb2cc646dfda565",
+      "transformations": [
+        "adapted local links and paths for publication"
+      ]
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/openspec/changes/add-customer-order-control-price/.openspec.yaml",
+      "published": "09-opsx-ut-explore-chats/openspec/changes/add-customer-order-control-price/.openspec.yaml",
+      "source_sha256": "5fd2cc7d290b25cf909218418df74e542dd2eb03ebf67a63a38a9bee04d94037",
+      "published_sha256": "5fd2cc7d290b25cf909218418df74e542dd2eb03ebf67a63a38a9bee04d94037",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/openspec/changes/add-customer-order-control-price/design.md",
+      "published": "09-opsx-ut-explore-chats/openspec/changes/add-customer-order-control-price/design.md",
+      "source_sha256": "065bb92dcfa36c474e332cd8806f7c86a10faf1b0e7e4c56d3b31c275664f539",
+      "published_sha256": "065bb92dcfa36c474e332cd8806f7c86a10faf1b0e7e4c56d3b31c275664f539",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/openspec/changes/add-customer-order-control-price/proposal.md",
+      "published": "09-opsx-ut-explore-chats/openspec/changes/add-customer-order-control-price/proposal.md",
+      "source_sha256": "7a1f32c48be34bf6523e18dbc9ffbdc7c7347761f8b256a5b816609078c301db",
+      "published_sha256": "7a1f32c48be34bf6523e18dbc9ffbdc7c7347761f8b256a5b816609078c301db",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/openspec/changes/add-customer-order-control-price/specs/customer-order-price-control/spec.md",
+      "published": "09-opsx-ut-explore-chats/openspec/changes/add-customer-order-control-price/specs/customer-order-price-control/spec.md",
+      "source_sha256": "a77b0da624d276978df35cf6beb070966fc92221fc7705e39cd02de6bb88b9e2",
+      "published_sha256": "a77b0da624d276978df35cf6beb070966fc92221fc7705e39cd02de6bb88b9e2",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/openspec/changes/add-customer-order-control-price/tasks.md",
+      "published": "09-opsx-ut-explore-chats/openspec/changes/add-customer-order-control-price/tasks.md",
+      "source_sha256": "bc56d12a50732b2d837f7f7c7e6f8bb5ed7fc121b1f0979b5ecd2c9dcb549e8d",
+      "published_sha256": "bc56d12a50732b2d837f7f7c7e6f8bb5ed7fc121b1f0979b5ecd2c9dcb549e8d",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/openspec/config.yaml",
+      "published": "09-opsx-ut-explore-chats/openspec/config.yaml",
+      "source_sha256": "2dc0b9247a85b2dcdd5d83cb8a35a0088fd3edc6c20d3148523a2d1e36e69e49",
+      "published_sha256": "2dc0b9247a85b2dcdd5d83cb8a35a0088fd3edc6c20d3148523a2d1e36e69e49",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/.agents/skills/openspec-apply-change/SKILL.md",
+      "published": "09-opsx-ut-explore-chats/.agents/skills/openspec-apply-change/SKILL.md",
+      "source_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "published_sha256": "a5439fa66fc69a907175f90929e88e7f3f00126e24ae1be04e3369d24b716e89",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/.agents/skills/openspec-archive-change/SKILL.md",
+      "published": "09-opsx-ut-explore-chats/.agents/skills/openspec-archive-change/SKILL.md",
+      "source_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "published_sha256": "96ce3d997fb7bfadeabd52a875c9933d293543ed4c906f6f1c319ad996ea5542",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/.agents/skills/openspec-explore/SKILL.md",
+      "published": "09-opsx-ut-explore-chats/.agents/skills/openspec-explore/SKILL.md",
+      "source_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "published_sha256": "1ad310a2ae79acc18e626410b1c055d49c1e432e2f2f1479760eaf16cc655ce7",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/.agents/skills/openspec-propose/SKILL.md",
+      "published": "09-opsx-ut-explore-chats/.agents/skills/openspec-propose/SKILL.md",
+      "source_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "published_sha256": "66f8cfbe7fae4b710b3c881a7921560cbd4b2c4539c2fe10127618fe7e5496ab",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/.agents/skills/openspec-sync-specs/SKILL.md",
+      "published": "09-opsx-ut-explore-chats/.agents/skills/openspec-sync-specs/SKILL.md",
+      "source_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "published_sha256": "623ae1ddf825cced6d0048bda285a8717d167400c651046ff54fe07c868e3f95",
+      "transformations": []
+    },
+    {
+      "original": "09. opsx + ut + explore + chats/.agents/skills/openspec-verify-change/SKILL.md",
+      "published": "09-opsx-ut-explore-chats/.agents/skills/openspec-verify-change/SKILL.md",
+      "source_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "published_sha256": "a99c756cf37b9c1e003036115529741a3e61c4e744eecdfa6536ea0a34b26f82",
+      "transformations": []
+    },
+    {
+      "original": "10. summary/comparison.md",
+      "published": "comparison/comparison.md",
+      "source_sha256": "19b18318d5a9092d713263e0650e9cfd0aa8c4052909b097d705c89b4c6c2421",
+      "published_sha256": "19b18318d5a9092d713263e0650e9cfd0aa8c4052909b097d705c89b4c6c2421",
+      "transformations": []
+    },
+    {
+      "original": "10. summary/final-ranking.md",
+      "published": "comparison/final-ranking.md",
+      "source_sha256": "327983f8a78a12d01c13b3f10801aec6a3be440f38fe7a16d12c02cb9afb6705",
+      "published_sha256": "327983f8a78a12d01c13b3f10801aec6a3be440f38fe7a16d12c02cb9afb6705",
+      "transformations": []
+    },
+    {
+      "original": "10. summary/questions-comparison.md",
+      "published": "comparison/questions-comparison.md",
+      "source_sha256": "6c0d77e431c378d7ef5dcce5e581268edec5df4a2eabf2ede9dec3e5908fc759",
+      "published_sha256": "6c0d77e431c378d7ef5dcce5e581268edec5df4a2eabf2ede9dec3e5908fc759",
+      "transformations": []
+    },
+    {
+      "original": "10. summary/run07-comparison.md",
+      "published": "comparison/run07-comparison.md",
+      "source_sha256": "b785575c1ef4a7aa0e69ed11c172a8251d3bdbf4e9665c566f96ccb7fad09064",
+      "published_sha256": "b785575c1ef4a7aa0e69ed11c172a8251d3bdbf4e9665c566f96ccb7fad09064",
+      "transformations": []
+    },
+    {
+      "original": "10. summary/runs08-09-comparison.md",
+      "published": "comparison/runs08-09-comparison.md",
+      "source_sha256": "8037b154973f6d864d651dc2b6cd3ca8b4a65b9391d9aa4461fbd93b314ecd54",
+      "published_sha256": "8037b154973f6d864d651dc2b6cd3ca8b4a65b9391d9aa4461fbd93b314ecd54",
+      "transformations": []
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 ## GitHub Pages
 
-Сборка Pages подготовлена для публикации экспериментов по пути `/experiments/`; обзор ЗНР остаётся в корне сайта. `sites/build_pages.py` копирует только два готовых HTML-файла, без исходников проекта и настроек. По решению автора публикация отложена до открытия текущего репозитория: тариф не поддерживает Pages для приватного проекта. После открытия включите источник GitHub Actions в настройках Pages и запустите workflow Publish dashboards.
+Открыть [сравнение девяти экспериментов](https://korolevpavel.github.io/infostart-apm-2026/experiments/). Сайт опубликован 12.11.2026 и доступен без авторизации. [Обзор ЗНР](https://korolevpavel.github.io/infostart-apm-2026/) размещён в корне сайта. Обновления готовых HTML в `main` публикуются workflow `Publish dashboards` через GitHub Actions.
 
 ## Открыть офлайн
 
